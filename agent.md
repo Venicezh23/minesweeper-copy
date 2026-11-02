@@ -76,6 +76,12 @@ Use focused tests while developing, then run the full test suite before
 finishing a change. A UI smoke check should only require a display when the
 Tkinter application is launched.
 
+## Contributor Workflow
+
+The contributor will write code changes by hand. Provide guidance,
+explanations, investigation, and verification support as needed, but do not
+take over implementation unless explicitly asked.
+
 ## Roadmap
 
 1. Implement the engine model, presets, cell views, action results, and state
